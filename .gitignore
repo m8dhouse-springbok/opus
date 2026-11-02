@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+.swiftpm/
+Package.resolved
+Opus.app/
+*.xcuserstate
+xcuserdata/
+.superpowers/
